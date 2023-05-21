@@ -1,5 +1,6 @@
 body {
     background-color: lightpink;
+    margin: 0 auto;
   }
   h1{
     text-align: center;
@@ -17,6 +18,7 @@ body {
     width: 25%;
   }
   ol{
-    text-align: center;
+    text-align: left;
+    display: inline-block;
     list-style-position: inside;
   }

@@ -1,0 +1,37 @@
+
+body {
+    margin: 0;
+    display: grid;
+}
+
+.back {
+    width: 100%;
+}
+
+.color {
+    background-color: #737373;
+    text-align: center;
+    padding: 3%;
+}
+
+.color img {
+    width: 20%
+}
+
+div {
+    background-color: #737373;
+
+}
+
+
+
+.left, .middle, .right {
+    border-radius: 100%;
+    border: 20px solid black;
+}
+
+.middle {
+    margin: 0 5%;
+}
+
+
