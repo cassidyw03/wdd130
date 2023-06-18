@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 3000px;
+    margin: 0 auto;
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+div {
+    display: grid;
+    grid
+}
+
+.a {
+    /* grid-template: 1234; */
+    text-align: center;
+}
+ 
+.middle {
+    display: grid;
+    grid-template-rows: 1fr 2fr 4fr;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 
+}
